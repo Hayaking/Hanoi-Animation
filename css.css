@@ -1,0 +1,47 @@
+body {
+    background-color: #fef1c0;
+}
+
+p,h1 {
+    text-align: center;
+    border: 1px solid black;
+}
+
+.container, h1, div {
+    margin: 0;!important;
+    padding: 0;!important;
+}
+
+.tower {
+    margin-bottom: 0;
+    padding: 0;
+    height: 100%;
+}
+
+.tower-base {
+    padding: 0;!important;
+    display: inline-flex;
+    margin-top: 0;
+}
+#console{
+    height:300px;
+    width: 300px;
+    overflow: auto;
+}
+
+h1 {
+    width: 200px;
+    display: inline-table;
+}
+
+#A {
+    background-color: #44d26c;
+}
+
+#B {
+    background-color: #fcff23;
+}
+
+#C {
+    background-color: #e65081;
+}
